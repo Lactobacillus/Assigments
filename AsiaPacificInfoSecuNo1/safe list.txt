@@ -1,0 +1,4 @@
+sendTextMessage
+sinkFunc
+getPackageName
+registerCallback

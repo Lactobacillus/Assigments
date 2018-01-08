@@ -1,0 +1,19 @@
+﻿빌드 시작: 2017-05-18 오후 12:23:14
+     1>2 노드의 "C:\Users\Lactobacillus\OneDrive - 고려대학교\고려대학교\2017\1 학기\컴퓨터그래픽스\Programming Assignment\PA 04\PA 04\PA 04\PA 04.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt WaveFrontOBJ.cpp code.cpp
+         WaveFrontOBJ.cpp
+     1>C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+         code.cpp
+     1>C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lactobacillus\OneDrive - 고려대학교\고려대학교\2017\1 학기\컴퓨터그래픽스\Programming Assignment\PA 04\PA 04\Release\PA 04.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Lactobacillus\OneDrive - 고려대학교\고려대학교\2017\1 학기\컴퓨터그래픽스\Programming Assignment\PA 04\PA 04\Release\PA 04.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Lactobacillus\OneDrive - 고려대학교\고려대학교\2017\1 학기\컴퓨터그래픽스\Programming Assignment\PA 04\PA 04\Release\PA 04.lib" /MACHINE:X86 /SAFESEH:NO Release\code.obj
+         Release\WaveFrontOBJ.obj
+         코드를 생성하고 있습니다.
+         코드를 생성했습니다.
+         PA 04.vcxproj -> C:\Users\Lactobacillus\OneDrive - 고려대학교\고려대학교\2017\1 학기\컴퓨터그래픽스\Programming Assignment\PA 04\PA 04\Release\PA 04.exe
+     1>"C:\Users\Lactobacillus\OneDrive - 고려대학교\고려대학교\2017\1 학기\컴퓨터그래픽스\Programming Assignment\PA 04\PA 04\PA 04\PA 04.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:03.32
